@@ -10,7 +10,7 @@ Lindgren, S. and Richardson, L. (2023). ”Endometriosis and epistemic community
 
 Lindqvist, L. and Lindgren, S. (2022). "Mapping an Emerging Hashtag Ecosystem: Connective action and interpretive frames in the Swedish \#MeToo movement".  *Feminist Media Studies*. [[https://doi.org/10.1080/14680777.2022.2149604](https://doi.org/10.1080/14680777.2022.2149604)]
 
-Lindgren, S. and Åkerlund, M. (2022). “TAPS: Tweets Across the Political Spectrum 2016–2020”. *SocArXiv*. [[http://dx.doi.org/10.31235/osf.io/c7dqy]http://dx.doi.org/10.31235/osf.io/c7dqy)]
+Lindgren, S. and Åkerlund, M. (2022). “TAPS: Tweets Across the Political Spectrum 2016–2020”. *SocArXiv*. [[http://dx.doi.org/10.31235/osf.io/c7dqy](http://dx.doi.org/10.31235/osf.io/c7dqy)]
 
 Lindgren, S. and Åkerlund, M. (2022). “The TAPS Dataset: Political Tweets 2016-2020”. *Harvard Dataverse*. [[https://doi.org/10.7910/DVN/QG1HQF](https://doi.org/10.7910/DVN/QG1HQF)]
 

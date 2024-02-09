@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 permalink: /swebooks/
 ---
-
 [<--back]({{ site.url }}/)
 
 **_Books in Swedish_**

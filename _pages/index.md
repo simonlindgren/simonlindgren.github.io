@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 permalink: /
 ---
 
@@ -14,15 +14,14 @@ My research is about politics, power, and resistance at the intersection of soci
 &nbsp;|&nbsp;[JDSR](https://jdsr.io/)
 &nbsp;|&nbsp;[Profile at UmU](https://www.umu.se/en/staff/simon-lindgren/)
 &nbsp;|&nbsp;[Digital Sociology research group](https://www.umu.se/en/research/groups/digitalsociology/)
-
-<br>
+<br><br>
+<hr>
 ### **Books**
 {% include_relative books.md %}
 
-
 [--> books in Swedish](swebooks)
-
-<br>
+<br><br>
+<hr>
 ### **Ten recent papers**
 {% include_relative new_papers.md %}
 

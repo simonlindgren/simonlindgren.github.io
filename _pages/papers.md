@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: default
 permalink: /papers/
 ---
-
 [<--more recent publications]({{ site.url }}/)
+
+**_Previous papers_**
 
 Lindgren, S. and Johansson, A. (2021). “Getting Better? Hegemonic, negotiated and oppositional uses of Instagram for mental health support”. *Journal of Communication Inquiry*. [[https://doi.org/10.1177/01968599211042581](https://doi.org/10.1177/01968599211042581)]
 
