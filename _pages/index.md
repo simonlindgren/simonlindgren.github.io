@@ -19,7 +19,7 @@ My research is about politics, power, and resistance at the intersection of soci
 ### **Books**
 {% include_relative books.md %}
 
-[--> books in Swedish](swebooks)
+[--> books in other languages](langbooks)
 <br><br>
 <hr>
 ### **Ten recent papers**

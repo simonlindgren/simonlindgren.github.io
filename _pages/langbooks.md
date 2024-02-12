@@ -1,10 +1,15 @@
 ---
 layout: default
-permalink: /swebooks/
+permalink: /langbooks/
 ---
 [<--back]({{ site.url }}/)
 
-**_Books in Swedish_**
+**_Translations_**
+
+Lindgren, S. (2022). 数字媒体与社会. Chinese translation of *Digital Media and Society 1st Edition*. Communication University of China Press. [ISBN 9787565728150](https://web.archive.org/web/20240301000000*/http://www.megbook.com.tw/mall/detail.jsp?proID=3812621)
+
+<br>
+**_Books written in Swedish_**
 
 Carlsson, E., Nilsson, B. and Lindgren, S. (2015, eds.). _Digital politik_. Daidalos.
 
@@ -33,3 +38,5 @@ Lindgren, S. (2007). _Sociologi 2.0_. Gleerups.
 Lindgren, S. (2005). _Populärkultur_. Liber.
 
 Lindgren, S. (2002). _Modernitetens markörer_. Doctoral thesis, Umeå University.
+
+
