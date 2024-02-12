@@ -6,7 +6,7 @@ layout: default
 permalink: /
 ---
 
-I am a Professor of Sociology at Umeå University in Sweden, where I am also the director of DIGSUM, an interdisciplinary academic research centre studying the social dimensions of digital technology, and the editor-in-chief of the Journal of Digital Social Research.
+I am a Professor of Sociology at Umeå University in Sweden, where I am also the director of DIGSUM, an interdisciplinary research centre studying the social dimensions of digital technology, and the editor-in-chief of the Journal of Digital Social Research.
 
 My research is about politics, power, and resistance at the intersection of society and digital technologies. I use critical discourse approaches, computational text analysis, and social network analysis to study issues relating to movements, mobilization, opinions, and identities.
 
