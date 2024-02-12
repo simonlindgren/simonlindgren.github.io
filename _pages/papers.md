@@ -2,7 +2,7 @@
 layout: default
 permalink: /papers/
 ---
-[<--more recent publications]({{ site.url }}/)
+[<-- recent publications]({{ site.url }}/)
 
 **_Previous papers_**
 
