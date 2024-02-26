@@ -1,3 +1,5 @@
+Merrill, S., Gardell, M. and Lindgren, S (2024): ”How ‘the Left’ Meme: Analyzing Taboo in the Internet Memes of r/DankLeft". *New Media & Society*. [[https://doi.org/10.1177/14614448241232144](https://doi.org/10.1177/14614448241232144)]
+
 Lindström, A., Lindgren, S. and Sainudiin, R. (2024). "Statistical Hypothesis Testing and Modelling of Peoples' Power: A Causal Study of the #BlackLivesMatter Movement via Hawkes Processes on Social and Mass Media". *DATA2023 Conference Proceedings*. Springer.
 
 Lindgren, S. (2023). ”Introducing critical studies of artificial intelligence”, in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
@@ -15,7 +17,5 @@ Lindgren, S. and Åkerlund, M. (2022). “TAPS: Tweets Across the Political Spec
 Lindgren, S. and Åkerlund, M. (2022). “The TAPS Dataset: Political Tweets 2016-2020”. *Harvard Dataverse*. [[https://doi.org/10.7910/DVN/QG1HQF](https://doi.org/10.7910/DVN/QG1HQF)]
 
 Eriksson Krutrök, M. and Lindgren, S. (2022). “Social media amplification loops and false alarms: Towards a socio‑technical understanding of misinformation during emergencies”. *The Communication Review*. [[https://doi.org/10.1080/10714421.2022.2035165](https://doi.org/10.1080/10714421.2022.2035165)]
-
-Lindberg, J, Kvist, E. and Lindgren, S. (2022). ”The Ongoing and Collective Character of Digital Care for Older People: Moving beyond Techno-Determinism in Government Policy”. *Journal of Technology in Human Services*. [[https://doi.org/10.1080/15228835.2022.2144588](https://doi.org/10.1080/15228835.2022.2144588)]
 
 
