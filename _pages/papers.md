@@ -6,6 +6,8 @@ permalink: /papers/
 
 **_Previous papers_**
 
+Eriksson Krutrök, M. and Lindgren, S. (2022). “Social media amplification loops and false alarms: Towards a socio‑technical understanding of misinformation during emergencies”. *The Communication Review*. [[https://doi.org/10.1080/10714421.2022.2035165](https://doi.org/10.1080/10714421.2022.2035165)]
+
 Lindberg, J, Kvist, E. and Lindgren, S. (2022). ”The Ongoing and Collective Character of Digital Care for Older People: Moving beyond Techno-Determinism in Government Policy”. *Journal of Technology in Human Services*. [[https://doi.org/10.1080/15228835.2022.2144588](https://doi.org/10.1080/15228835.2022.2144588)]
 
 Lindgren, S. and Johansson, A. (2021). “Getting Better? Hegemonic, negotiated and oppositional uses of Instagram for mental health support”. *Journal of Communication Inquiry*. [[https://doi.org/10.1177/01968599211042581](https://doi.org/10.1177/01968599211042581)]
