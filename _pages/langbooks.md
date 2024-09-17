@@ -6,6 +6,8 @@ permalink: /langbooks/
 
 **_Translations_**
 
+Lindgren, S. (2024). *AI: Ett kritiskt perspektiv*. Swedish translation of _Critical Theory of AI_. Studentlitteratur. 
+
 Lindgren, S. (2022). 数字媒体与社会. Chinese translation of *Digital Media and Society, 1st Edition*. Communication University of China Press. [[ISBN 9787565728150](https://web.archive.org/web/20240212145407/http://www.megbook.com.tw/mall/detail.jsp?proID=3812621)]
 
 Hjerm, M. and Lindgren, S. (2011). *Introduksjon till samfunnsvitenskapelig analyse*. Norwegian translation of _Introduktion till samhällsvetenskaplig analys, 1st Edition_. Gyldendal.
