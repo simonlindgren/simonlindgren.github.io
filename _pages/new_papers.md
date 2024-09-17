@@ -1,3 +1,5 @@
+Hallberg-Sramek, I., Lindgren, S., Samuelsson, J. and Sandström, C. (2024). "Applying Machine Learning to Media Analysis Improves Our Understanding of Forest Conflicts". *Land Use Policy*, 144, 107254. [[https://doi.org/10.1016/j.landusepol.2024.107254]](https://doi.org/10.1016/j.landusepol.2024.107254)
+
 Ericson, P.,  Dobbe, R. and Lindgren, S. (2024): “Tracing Class and Capitalism in Critical AI Research”. *TripleC*. [[https://doi.org/10.31269/triplec.v22i1.1464](https://doi.org/10.31269/triplec.v22i1.1464)].
 
 Östin, E. and Lindgren, S. (2024): "Bridging Activism and Party Politics: Mapping Frame Alignment Processes in Politicians’ Use of Hashtags". *Social Media + Society*. [[https://doi.org/10.1177/20563051241245668](https://doi.org/10.1177/20563051241245668)]
@@ -16,5 +18,5 @@ Lindgren, S. and Richardson, L. (2023). ”Endometriosis and epistemic community
 
 Lindqvist, L. and Lindgren, S. (2022). "Mapping an Emerging Hashtag Ecosystem: Connective action and interpretive frames in the Swedish \#MeToo movement".  *Feminist Media Studies*. [[https://doi.org/10.1080/14680777.2022.2149604](https://doi.org/10.1080/14680777.2022.2149604)]
 
-Lindgren, S. and Åkerlund, M. (2022). “TAPS: Tweets Across the Political Spectrum 2016–2020”. *SocArXiv*. [[http://dx.doi.org/10.31235/osf.io/c7dqy](http://dx.doi.org/10.31235/osf.io/c7dqy)]
+
 

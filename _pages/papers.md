@@ -6,6 +6,8 @@ permalink: /papers/
 
 **_Previous papers_**
 
+Lindgren, S. and Åkerlund, M. (2022). “TAPS: Tweets Across the Political Spectrum 2016–2020”. *SocArXiv*. [[http://dx.doi.org/10.31235/osf.io/c7dqy](http://dx.doi.org/10.31235/osf.io/c7dqy)]
+
 Lindgren, S. and Åkerlund, M. (2022). “The TAPS Dataset: Political Tweets 2016-2020”. *Harvard Dataverse*. [[https://doi.org/10.7910/DVN/QG1HQF](https://doi.org/10.7910/DVN/QG1HQF)]
 
 Eriksson Krutrök, M. and Lindgren, S. (2022). “Social media amplification loops and false alarms: Towards a socio‑technical understanding of misinformation during emergencies”. *The Communication Review*. [[https://doi.org/10.1080/10714421.2022.2035165](https://doi.org/10.1080/10714421.2022.2035165)]
