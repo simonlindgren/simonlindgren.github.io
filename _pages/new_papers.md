@@ -1,4 +1,4 @@
-Liminga, A. and Lindgren, S. (202x): "Mapping the discursive landscape of data activism: Articulations and actors in an emerging movement". *Big Data & Society*. [[https://doi.org/10.1177/20539517241266416]](https://doi.org/10.1177/20539517241266416)
+Liminga, A. and Lindgren, S. (2024): "Mapping the discursive landscape of data activism: Articulations and actors in an emerging movement". *Big Data & Society*. [[https://doi.org/10.1177/20539517241266416]](https://doi.org/10.1177/20539517241266416)
 
 Hallberg-Sramek, I., Lindgren, S., Samuelsson, J. and Sandström, C. (2024). "Applying Machine Learning to Media Analysis Improves Our Understanding of Forest Conflicts". *Land Use Policy*, 144, 107254. [[https://doi.org/10.1016/j.landusepol.2024.107254]](https://doi.org/10.1016/j.landusepol.2024.107254)
 
