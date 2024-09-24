@@ -1,3 +1,5 @@
+Liminga, A. and Lindgren, S. (202x): "Mapping the discursive landscape of data activism: Articulations and actors in an emerging movement". *Big Data & Society*. [[https://doi.org/10.1177/20539517241266416]](https://doi.org/10.1177/20539517241266416)
+
 Hallberg-Sramek, I., Lindgren, S., Samuelsson, J. and Sandström, C. (2024). "Applying Machine Learning to Media Analysis Improves Our Understanding of Forest Conflicts". *Land Use Policy*, 144, 107254. [[https://doi.org/10.1016/j.landusepol.2024.107254]](https://doi.org/10.1016/j.landusepol.2024.107254)
 
 Ericson, P.,  Dobbe, R. and Lindgren, S. (2024): “Tracing Class and Capitalism in Critical AI Research”. *TripleC*. [[https://doi.org/10.31269/triplec.v22i1.1464](https://doi.org/10.31269/triplec.v22i1.1464)].
@@ -15,8 +17,6 @@ Lindgren, S. and Dignum, V. (2023). ”Beyond AI solutionism: toward a multi-dis
 Lindgren, S. (2023). ”Tvärvetenskaplighet inom tekniska mediestudier: exemplet sociala och politiska botar”, in Berg, Leckner, Engberg (eds.). *Tekniska mediestudier*. Studentlitteratur.
 
 Lindgren, S. and Richardson, L. (2023). ”Endometriosis and epistemic community: Mapping discourses of pain in online discussions among sufferers”. *Social Science & Medicine*. [[https://doi.org/10.1016/j.socscimed.2023.115889](https://doi.org/10.1016/j.socscimed.2023.115889)]
-
-Lindqvist, L. and Lindgren, S. (2022). "Mapping an Emerging Hashtag Ecosystem: Connective action and interpretive frames in the Swedish \#MeToo movement".  *Feminist Media Studies*. [[https://doi.org/10.1080/14680777.2022.2149604](https://doi.org/10.1080/14680777.2022.2149604)]
 
 
 
