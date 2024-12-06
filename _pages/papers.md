@@ -6,6 +6,8 @@ permalink: /papers/
 
 **_Previous papers_**
 
+Lindgren, S. and Richardson, L. (2023). ”Endometriosis and epistemic community: Mapping discourses of pain in online discussions among sufferers”. *Social Science & Medicine*. [[https://doi.org/10.1016/j.socscimed.2023.115889](https://doi.org/10.1016/j.socscimed.2023.115889)]
+
 Lindqvist, L. and Lindgren, S. (2022). "Mapping an Emerging Hashtag Ecosystem: Connective action and interpretive frames in the Swedish \#MeToo movement".  *Feminist Media Studies*. [[https://doi.org/10.1080/14680777.2022.2149604](https://doi.org/10.1080/14680777.2022.2149604)]
 
 Lindgren, S. and Åkerlund, M. (2022). “TAPS: Tweets Across the Political Spectrum 2016–2020”. *SocArXiv*. [[http://dx.doi.org/10.31235/osf.io/c7dqy](http://dx.doi.org/10.31235/osf.io/c7dqy)]
