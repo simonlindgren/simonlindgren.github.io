@@ -1,4 +1,4 @@
-Lindgren, S. and Kaun, A. (2024): "Programmable Politics in the Aftermaths of the Pandemic". *Media, Culture & Society*. [https://doi.org/10.1177/01634437241301616](https://doi.org/10.1177/01634437241301616)
+Lindgren, S. and Kaun, A. (2024): "Programmable Politics in the Aftermaths of the Pandemic". *Media, Culture & Society*. [[https://doi.org/10.1177/01634437241301616]](https://doi.org/10.1177/01634437241301616)
 
 Liminga, A. and Lindgren, S. (2024): "Mapping the discursive landscape of data activism: Articulations and actors in an emerging movement". *Big Data & Society*. [[https://doi.org/10.1177/20539517241266416]](https://doi.org/10.1177/20539517241266416)
 
