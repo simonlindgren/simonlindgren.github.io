@@ -1,3 +1,5 @@
+Lindgren, S. (2025): ”Bots in progressive politics: The cases of #blacklivesmatter and #metoo”, in Mattoni (ed.): *Handbook of Progressive Politics*, pp. 423-433. Elgar.
+
 Lindgren, S. and Kaun, A. (2024): "Programmable Politics in the Aftermaths of the Pandemic". *Media, Culture & Society*. [[https://doi.org/10.1177/01634437241301616]](https://doi.org/10.1177/01634437241301616)
 
 Liminga, A. and Lindgren, S. (2024): "Mapping the discursive landscape of data activism: Articulations and actors in an emerging movement". *Big Data & Society*. [[https://doi.org/10.1177/20539517241266416]](https://doi.org/10.1177/20539517241266416)
@@ -16,4 +18,3 @@ Lindgren, S. (2023). ”Introducing critical studies of artificial intelligence�
 
 Lindgren, S. and Dignum, V. (2023). ”Beyond AI solutionism: toward a multi-disciplinary approach to artificial intelligence in society”, in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
 
-Lindgren, S. (2023). ”Tvärvetenskaplighet inom tekniska mediestudier: exemplet sociala och politiska botar”, in Berg, Leckner, Engberg (eds.). *Tekniska mediestudier*. Studentlitteratur.
