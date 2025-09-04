@@ -1,3 +1,5 @@
+Kashima, Y., Laham, S., Dignum, F. and Lindgren, S. (2025): "Insitutions: a psychological perspective", in Laham (ed.): *Handbook of Ethics and Social Psychology", pp. 361.383. Elgar.
+
 Lindgren, S. (2025): ”Bots in progressive politics: The cases of #blacklivesmatter and #metoo”, in Mattoni (ed.): *Handbook of Progressive Politics*, pp. 423-433. Elgar.
 
 Lindgren, S. and Kaun, A. (2024): "Programmable Politics in the Aftermaths of the Pandemic". *Media, Culture & Society*. [[https://doi.org/10.1177/01634437241301616]](https://doi.org/10.1177/01634437241301616)
@@ -15,6 +17,3 @@ Merrill, S., Gardell, M. and Lindgren, S (2024): ”How ‘the Left’ Meme: Ana
 Lindström, A., Lindgren, S. and Sainudiin, R. (2024). "Statistical Hypothesis Testing and Modelling of Peoples' Power: A Causal Study of the #BlackLivesMatter Movement via Hawkes Processes on Social and Mass Media". *DATA2023 Conference Proceedings*. Springer.
 
 Lindgren, S. (2023). ”Introducing critical studies of artificial intelligence”, in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
-
-Lindgren, S. and Dignum, V. (2023). ”Beyond AI solutionism: toward a multi-disciplinary approach to artificial intelligence in society”, in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
-
