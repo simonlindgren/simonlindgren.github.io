@@ -1,4 +1,4 @@
-Kashima, Y., Laham, S., Dignum, F. and Lindgren, S. (2025): "Institutions: a psychological perspective", in Laham (ed.): *Handbook of Ethics and Social Psychology*, pp. 361.383. Elgar.
+Kashima, Y., Laham, S., Dignum, F. and Lindgren, S. (2025): "Institutions: a psychological perspective", in Laham (ed.): *Handbook of Ethics and Social Psychology*, pp. 361-383. Elgar.
 
 Lindgren, S. (2025): ”Bots in progressive politics: The cases of #blacklivesmatter and #metoo”, in Mattoni (ed.): *Handbook of Progressive Politics*, pp. 423-433. Elgar.
 
