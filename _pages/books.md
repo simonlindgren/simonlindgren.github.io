@@ -5,5 +5,5 @@ Lindgren, S. (2023, ed.). [_Handbook of Critical Studies of Artificial Intellige
 Lindgren, S. (2022). [_Digital Media and Society_, 2nd Edition](https://web.archive.org/web/20220706033802/https://uk.sagepub.com/en-gb/eur/digital-media-and-society/book270473). Sage.<br>
 Lindgren, S. (2020). [_Data Theory_](https://www.wiley.com/en-us/Data+Theory%3A+Interpretive+Sociology+and+Computational+Methods-p-9781509539284). Polity.<br>
 Lindgren, S. (2017). _Digital Media and Society_. Sage.<br>
-Lindgren, S. (2017, ed.). _Hybrid Media Culture_. Routledge.<br>
+Lindgren, S. (2014, ed.). _Hybrid Media Culture_. Routledge.<br>
 Lindgren, S. (2013). _New Noise_. Peter Lang.<br>
