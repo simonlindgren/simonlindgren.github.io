@@ -1,3 +1,5 @@
+Sigurdh, H. and Lindgren, S. (2025): "What’s in a bot? Tracing epistemic differences across expert discourses". *Human Technology*, 21(2), pp. 395–415. https://doi.org/10.14254/1795-6889.2025.21-2.8
+
 Kashima, Y., Laham, S., Dignum, F. and Lindgren, S. (2025): "Institutions: a psychological perspective", in Laham (ed.): *Handbook of Ethics and Social Psychology*, pp. 361-383. Elgar.
 
 Lindgren, S. (2025): ”Bots in progressive politics: The cases of #blacklivesmatter and #metoo”, in Mattoni (ed.): *Handbook of Progressive Politics*, pp. 423-433. Elgar.
@@ -15,5 +17,3 @@ Ericson, P.,  Dobbe, R. and Lindgren, S. (2024): “Tracing Class and Capitalism
 Merrill, S., Gardell, M. and Lindgren, S (2024): ”How ‘the Left’ Meme: Analyzing Taboo in the Internet Memes of r/DankLeft". *New Media & Society*. [[https://doi.org/10.1177/14614448241232144](https://doi.org/10.1177/14614448241232144)]
 
 Lindström, A., Lindgren, S. and Sainudiin, R. (2024). "Statistical Hypothesis Testing and Modelling of Peoples' Power: A Causal Study of the #BlackLivesMatter Movement via Hawkes Processes on Social and Mass Media". *DATA2023 Conference Proceedings*. Springer.
-
-Lindgren, S. (2023). ”Introducing critical studies of artificial intelligence”, in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.

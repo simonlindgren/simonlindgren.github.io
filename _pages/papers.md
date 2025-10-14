@@ -6,6 +6,8 @@ permalink: /papers/
 
 **_Previous papers_**
 
+Lindgren, S. (2023). ”Introducing critical studies of artificial intelligence”, in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
+
 Lindgren, S. and Dignum, V. (2023). ”Beyond AI solutionism: toward a multi-disciplinary approach to artificial intelligence in society”, in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
 
 Lindgren, S. (2023). ”Tvärvetenskaplighet inom tekniska mediestudier: exemplet sociala och politiska botar”, in Berg, Leckner, Engberg (eds.). *Tekniska mediestudier*. Studentlitteratur.
