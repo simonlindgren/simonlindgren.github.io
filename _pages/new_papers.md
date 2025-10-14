@@ -1,4 +1,4 @@
-Sigurdh, H. and Lindgren, S. (2025): "What’s in a bot? Tracing epistemic differences across expert discourses". *Human Technology*, 21(2), pp. 395–415. https://doi.org/10.14254/1795-6889.2025.21-2.8
+Sigurdh, H. and Lindgren, S. (2025): "What’s in a bot? Tracing epistemic differences across expert discourses". *Human Technology*, 21(2), pp. 395–415. [[https://doi.org/10.14254/1795-6889.2025.21-2.8]](https://doi.org/10.14254/1795-6889.2025.21-2.8)
 
 Kashima, Y., Laham, S., Dignum, F. and Lindgren, S. (2025): "Institutions: a psychological perspective", in Laham (ed.): *Handbook of Ethics and Social Psychology*, pp. 361-383. Elgar.
 
