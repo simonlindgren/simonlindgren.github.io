@@ -6,7 +6,9 @@ permalink: /papers/
 
 **_Previous papers_**
 
-Lindgren, S. (2023). ”Introducing critical studies of artificial intelligence”, in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
+Lindström, A., Lindgren, S. and Sainudiin, R. (2024). "Statistical Hypothesis Testing and Modelling of Peoples' Power: A Causal Study of the #BlackLivesMatter Movement via Hawkes Processes on Social and Mass Media". *DATA2023 Conference Proceedings*. Springer.
+
+Lindgren, S. (2023). "Introducing critical studies of artificial intelligence", in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
 
 Lindgren, S. and Dignum, V. (2023). ”Beyond AI solutionism: toward a multi-disciplinary approach to artificial intelligence in society”, in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
 
