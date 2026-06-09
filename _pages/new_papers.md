@@ -1,3 +1,5 @@
+Lindgren, S., Rudolph, J., Tang, F. X., Ismail, M. F. and Tan, S. (2026): "Not anti-technology, but anti-capitalist: A critical theory of AI. An interview with Professor Simon Lindgren". *Journal of Applied Learning and Teaching*, 9(2). [[https://doi.org/10.37074/jalt.2026.9.2.1]](https://doi.org/10.37074/jalt.2026.9.2.1)
+
 Lindgren, S. (2025): "Analyzing political bots on Twitter: an introduction", in Yasseri (ed.): *Handbook of Computational Social Science*, pp. 347-359. Elgar.
 
 Sigurdh, H. and Lindgren, S. (2025): "What's in a bot? Tracing epistemic differences across expert discourses". *Human Technology*, 21(2), pp. 395–415. [[https://doi.org/10.14254/1795-6889.2025.21-2.8]](https://doi.org/10.14254/1795-6889.2025.21-2.8)
@@ -15,5 +17,3 @@ Hallberg-Sramek, I., Lindgren, S., Samuelsson, J. and Sandström, C. (2024). "Ap
 Ericson, P.,  Dobbe, R. and Lindgren, S. (2024): “Tracing Class and Capitalism in Critical AI Research”. *TripleC*. [[https://doi.org/10.31269/triplec.v22i1.1464](https://doi.org/10.31269/triplec.v22i1.1464)].
 
 Östin, E. and Lindgren, S. (2024): "Bridging Activism and Party Politics: Mapping Frame Alignment Processes in Politicians’ Use of Hashtags". *Social Media + Society*. [[https://doi.org/10.1177/20563051241245668](https://doi.org/10.1177/20563051241245668)]
-
-Merrill, S., Gardell, M. and Lindgren, S (2024): "How 'the Left' Meme: Analyzing Taboo in the Internet Memes of r/DankLeft". *New Media & Society*. [[https://doi.org/10.1177/14614448241232144](https://doi.org/10.1177/14614448241232144)]

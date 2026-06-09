@@ -6,6 +6,8 @@ permalink: /papers/
 
 **_Previous papers_**
 
+Merrill, S., Gardell, M. and Lindgren, S (2024): "How 'the Left' Meme: Analyzing Taboo in the Internet Memes of r/DankLeft". *New Media & Society*. [[https://doi.org/10.1177/14614448241232144](https://doi.org/10.1177/14614448241232144)]
+
 Lindström, A., Lindgren, S. and Sainudiin, R. (2024). "Statistical Hypothesis Testing and Modelling of Peoples' Power: A Causal Study of the #BlackLivesMatter Movement via Hawkes Processes on Social and Mass Media". *DATA2023 Conference Proceedings*. Springer.
 
 Lindgren, S. (2023). "Introducing critical studies of artificial intelligence", in Lindgren (ed.). *Handbook of Critical Studies of Artificial Intelligence*. Elgar.
