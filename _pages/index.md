@@ -9,8 +9,8 @@ permalink: /
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 1em;">
   <img src="{{ site.url }}/assets/img/profile.jpg" alt="Simon Lindgren" style="width: 420px; border-radius: 10px; flex-shrink: 0;" />
   <div style="flex: 1; min-width: 280px;">
-    <p>I am a Professor of Sociology at Umeå University in Sweden, where I am also the director of DIGSUM, an interdisciplinary research centre studying the social dimensions of digital technology, and the editor-in-chief of the Journal of Digital Social Research.</p>
-    <p>My research is about politics, power, and resistance at the intersection of society and digital technologies. I use critical discourse approaches, computational text analysis, and social network analysis to study issues relating to movements, mobilization, opinions, and identities.</p>
+    <p>I am a Professor of Sociology at Umeå University in Sweden. My research concerns politics, power, and resistance at the intersection of digital technologies and society. I use critical discourse approaches, computational text analysis, and network methods to study questions of movements, mobilisation, opinion, and identity.</p>
+    <p>I am the Director of DIGSUM, an interdisciplinary research centre studying the social dimensions of digital technology, and the editor-in-chief of the Journal of Digital Social Research (JDSR). My books include <em>Data Theory</em> (2020), <em>Digital Media &amp; Society</em> (2025, 3rd ed.), <em>Critical Theory of AI</em> (2024), and <em>Discourse Machines</em> (2026).</p>
     <p><a href="https://www.umu.se/en/centre-for-digital-social-research/">DIGSUM</a>&nbsp;|&nbsp;<a href="https://jdsr.io/">JDSR</a>&nbsp;|&nbsp;<a href="https://www.umu.se/en/staff/simon-lindgren/">Profile at UmU</a>&nbsp;|&nbsp;<a href="https://www.umu.se/en/research/groups/digitalsociology/">Digital Sociology research group</a></p>
   </div>
 </div>
