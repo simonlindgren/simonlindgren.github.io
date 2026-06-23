@@ -6,11 +6,13 @@ layout: default
 permalink: /
 ---
 
-<img src="{{ site.url }}/assets/img/profile.jpg" alt="Simon Lindgren" style="float: left; width: 260px; margin: 4px 24px 12px 0; border-radius: 10px;" />
-
-I am a Professor of Sociology at Umeå University in Sweden, where I am also the director of DIGSUM, an interdisciplinary research centre studying the social dimensions of digital technology, and the editor-in-chief of the Journal of Digital Social Research.
-
-My research is about politics, power, and resistance at the intersection of society and digital technologies. I use critical discourse approaches, computational text analysis, and social network analysis to study issues relating to movements, mobilization, opinions, and identities.
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 1em;">
+  <img src="{{ site.url }}/assets/img/profile.jpg" alt="Simon Lindgren" style="width: 260px; border-radius: 10px; flex-shrink: 0;" />
+  <div style="flex: 1; min-width: 280px;">
+    <p>I am a Professor of Sociology at Umeå University in Sweden, where I am also the director of DIGSUM, an interdisciplinary research centre studying the social dimensions of digital technology, and the editor-in-chief of the Journal of Digital Social Research.</p>
+    <p>My research is about politics, power, and resistance at the intersection of society and digital technologies. I use critical discourse approaches, computational text analysis, and social network analysis to study issues relating to movements, mobilization, opinions, and identities.</p>
+  </div>
+</div>
 
 [DIGSUM](https://www.umu.se/en/centre-for-digital-social-research/)
 &nbsp;|&nbsp;[JDSR](https://jdsr.io/)
