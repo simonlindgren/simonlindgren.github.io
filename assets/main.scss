@@ -11,7 +11,7 @@ $content-width: 1140px;
 
 // Dark mode palette.
 $background-color: #121212;   // near-black page background
-$text-color:       #ffffff;   // white body text
+$text-color:       #e6e6e6;   // soft off-white body text (easier on the eyes)
 $brand-color:      #f526a4;   // neon-pink links, sampled from the photo's glow
 
 @import "minima";
@@ -21,6 +21,11 @@ $brand-color:      #f526a4;   // neon-pink links, sampled from the photo's glow
 // Make sure the dark background fills the whole viewport, not just the body box.
 html {
   background-color: $background-color;
+}
+
+// Keep headings crisp white while the body text stays softened.
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
 }
 
 // Keep links neon-pink whether visited or not; brighten slightly on hover.
