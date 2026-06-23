@@ -15,7 +15,7 @@ permalink: /
   </div>
 </div>
 
-<br><br>
+<br>
 ### **Books**
 {% include_relative books.md %}
 

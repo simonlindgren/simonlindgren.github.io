@@ -58,3 +58,21 @@ hr {
   border: 0;
   border-top: 1px solid $brand-color;
 }
+
+// Asymmetric layout on wide screens: keep the left margin at its current
+// (centered) value and make the right margin roughly three times wider, so the
+// content sits toward the left. The centered margin is (100% - 1140px) / 2,
+// i.e. calc(50% - 570px); giving the content a width of (2 x 1140px - 100%)
+// leaves a right margin three times the left. A min-width keeps the content
+// usable on very wide screens, and the whole rule only applies once there's
+// room, so narrow/mobile screens keep minima's default centred layout.
+@media screen and (min-width: 1200px) {
+  .wrapper {
+    box-sizing: border-box;
+    max-width: none;
+    width: calc(2280px - 100%);
+    min-width: 760px;
+    margin-left: calc(50% - 570px);
+    margin-right: auto;
+  }
+}
