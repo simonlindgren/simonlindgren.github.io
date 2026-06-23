@@ -16,13 +16,11 @@ permalink: /
 </div>
 
 <br><br>
-<hr>
 ### **Books**
 {% include_relative books.md %}
 
 [--> books in other languages](langbooks)
 <br><br>
-<hr>
 ### **Ten recent papers**
 {% include_relative new_papers.md %}
 
