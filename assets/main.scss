@@ -3,8 +3,44 @@
 # Front matter (the two --- lines) is required so Jekyll compiles it to main.css.
 ---
 
+// ----- Variable overrides (must come before the minima import) -----
+
 // Widen the overall content area. Minima's default $content-width is 800px;
 // it drives the .wrapper max-width used by the header, page content, and footer.
 $content-width: 1140px;
 
+// Dark mode palette.
+$background-color: #121212;   // near-black page background
+$text-color:       #ffffff;   // white body text
+$brand-color:      #f526a4;   // neon-pink links, sampled from the photo's glow
+
 @import "minima";
+
+// ----- Style overrides (after the import) -----
+
+// Make sure the dark background fills the whole viewport, not just the body box.
+html {
+  background-color: $background-color;
+}
+
+// Keep links neon-pink whether visited or not; brighten slightly on hover.
+a,
+a:visited {
+  color: $brand-color;
+}
+a:hover {
+  color: lighten($brand-color, 15%);
+  text-decoration: underline;
+}
+
+// The header wordmark (headerimg.png) is near-black; force it to white so it
+// reads on the dark background.
+.site-header .site-title img {
+  filter: brightness(0) invert(1);
+}
+
+// Subtle light horizontal rules instead of the browser's dark default groove.
+hr {
+  border: 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
