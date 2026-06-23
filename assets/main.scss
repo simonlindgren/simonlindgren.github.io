@@ -38,14 +38,23 @@ a:hover {
   text-decoration: underline;
 }
 
-// The header wordmark (headerimg.png) is near-black; force it to white so it
-// reads on the dark background.
-.site-header .site-title img {
-  filter: brightness(0) invert(1);
+// Recolour the header wordmark (a near-black PNG) to neon pink by using it as a
+// mask over a pink fill, rather than showing the PNG's own dark pixels.
+.site-header .site-title .site-logo {
+  display: inline-block;
+  width: 196px;   // preserves the 555x71 logo aspect ratio at 25px tall
+  height: 25px;
+  background-color: $brand-color;
+  -webkit-mask: url("/headerimg.png") left center / contain no-repeat;
+          mask: url("/headerimg.png") left center / contain no-repeat;
 }
 
-// Subtle light horizontal rules instead of the browser's dark default groove.
+// Pink header rules and section dividers to match the accent.
+.site-header {
+  border-top-color: $brand-color;
+  border-bottom-color: $brand-color;
+}
 hr {
   border: 0;
-  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  border-top: 1px solid $brand-color;
 }
