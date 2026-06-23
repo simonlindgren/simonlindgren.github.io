@@ -6,7 +6,7 @@ layout: default
 permalink: /
 ---
 
-<img src="{{ site.url }}/assets/img/profile.jpg" alt="Simon Lindgren" style="float: left; width: 220px; margin: 4px 24px 12px 0;" />
+<img src="{{ site.url }}/assets/img/profile.jpg" alt="Simon Lindgren" style="float: left; width: 260px; margin: 4px 24px 12px 0; border-radius: 10px;" />
 
 I am a Professor of Sociology at Umeå University in Sweden, where I am also the director of DIGSUM, an interdisciplinary research centre studying the social dimensions of digital technology, and the editor-in-chief of the Journal of Digital Social Research.
 
