@@ -1,0 +1,10 @@
+---
+# Custom site styles. This file overrides minima's default assets/main.scss.
+# Front matter (the two --- lines) is required so Jekyll compiles it to main.css.
+---
+
+// Widen the overall content area. Minima's default $content-width is 800px;
+// it drives the .wrapper max-width used by the header, page content, and footer.
+$content-width: 1140px;
+
+@import "minima";
