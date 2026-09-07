@@ -6,6 +6,8 @@ permalink: /papers/
 
 **_Previous papers_**
 
+Östin, E. and Lindgren, S. (2024): "Bridging Activism and Party Politics: Mapping Frame Alignment Processes in Politicians’ Use of Hashtags". *Social Media + Society*. [[https://doi.org/10.1177/20563051241245668](https://doi.org/10.1177/20563051241245668)]
+
 Merrill, S., Gardell, M. and Lindgren, S (2024): "How 'the Left' Meme: Analyzing Taboo in the Internet Memes of r/DankLeft". *New Media & Society*. [[https://doi.org/10.1177/14614448241232144](https://doi.org/10.1177/14614448241232144)]
 
 Lindström, A., Lindgren, S. and Sainudiin, R. (2024). "Statistical Hypothesis Testing and Modelling of Peoples' Power: A Causal Study of the #BlackLivesMatter Movement via Hawkes Processes on Social and Mass Media". *DATA2023 Conference Proceedings*. Springer.

@@ -1,3 +1,5 @@
+Farkas, X. and Lindgren, S. (2026): "The Language of Democratic Resilience and Decline: A Comparative Study of Politicians' Communication on Facebook in Sweden and Hungary". *Political Communication*. [[https://doi.org/10.1080/10584609.2026.2727043]](https://doi.org/10.1080/10584609.2026.2727043)
+
 Lindgren, S., Rudolph, J., Tang, F. X., Ismail, M. F. and Tan, S. (2026): "Not anti-technology, but anti-capitalist: A critical theory of AI. An interview with Professor Simon Lindgren". *Journal of Applied Learning and Teaching*, 9(2). [[https://doi.org/10.37074/jalt.2026.9.2.1]](https://doi.org/10.37074/jalt.2026.9.2.1)
 
 Lindgren, S. (2025): "Analyzing political bots on Twitter: an introduction", in Yasseri (ed.): *Handbook of Computational Social Science*, pp. 347-359. Elgar.
@@ -15,5 +17,3 @@ Liminga, A. and Lindgren, S. (2024): "Mapping the discursive landscape of data a
 Hallberg-Sramek, I., Lindgren, S., Samuelsson, J. and Sandström, C. (2024). "Applying Machine Learning to Media Analysis Improves Our Understanding of Forest Conflicts". *Land Use Policy*, 144, 107254. [[https://doi.org/10.1016/j.landusepol.2024.107254]](https://doi.org/10.1016/j.landusepol.2024.107254)
 
 Ericson, P.,  Dobbe, R. and Lindgren, S. (2024): “Tracing Class and Capitalism in Critical AI Research”. *TripleC*. [[https://doi.org/10.31269/triplec.v22i1.1464](https://doi.org/10.31269/triplec.v22i1.1464)].
-
-Östin, E. and Lindgren, S. (2024): "Bridging Activism and Party Politics: Mapping Frame Alignment Processes in Politicians’ Use of Hashtags". *Social Media + Society*. [[https://doi.org/10.1177/20563051241245668](https://doi.org/10.1177/20563051241245668)]
