@@ -6,6 +6,8 @@ permalink: /papers/
 
 **_Previous papers_**
 
+Ericson, P.,  Dobbe, R. and Lindgren, S. (2024): “Tracing Class and Capitalism in Critical AI Research”. *TripleC*. [[https://doi.org/10.31269/triplec.v22i1.1464](https://doi.org/10.31269/triplec.v22i1.1464)].
+
 Östin, E. and Lindgren, S. (2024): "Bridging Activism and Party Politics: Mapping Frame Alignment Processes in Politicians’ Use of Hashtags". *Social Media + Society*. [[https://doi.org/10.1177/20563051241245668](https://doi.org/10.1177/20563051241245668)]
 
 Merrill, S., Gardell, M. and Lindgren, S (2024): "How 'the Left' Meme: Analyzing Taboo in the Internet Memes of r/DankLeft". *New Media & Society*. [[https://doi.org/10.1177/14614448241232144](https://doi.org/10.1177/14614448241232144)]
