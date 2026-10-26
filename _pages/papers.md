@@ -58,6 +58,12 @@ Enarsson, T. and Lindgren, S. (2018). ”Free speech or hate speech? A legal ana
 
 Lindgren, S. (2018). ”A ghost in the machine. Tracing the role of ’the digital’ in discursive processes of cybervictimisation”. *Discourse & Communication*. [[https://doi.org/10.1177/1750481318766936](https://doi.org/10.1177/1750481318766936)]
 
+Lindgren, S. (2017). “Sociologiska perspektiv”. In Odenstad, C. (ed.) *Samhällskunskap för lärare 4-9*. Gleerups.
+
+Lindgren, S. (2017). “Mediala perspektiv”. In Odenstad, C. (ed.) *Samhällskunskap för lärare 4-9*. Gleerups.
+
+Lindgren, S. (2017). “Samhällsvetenskapliga arbetsmetoder”. In Odenstad, C. (ed.) *Samhällskunskap för lärare 4-9*. Gleerups.
+
 Sjöberg, M. and Lindgren, S. (2017). ”Challenging the roles of ‘skilled’ professionals and ‘risky’ young mothers. Peer‑support, expertise and relational patterns in Facebook groups”. *Journal of Technology in Human Services*. [[http://doi.org/10.1080/15228835.2017.1367350](http://doi.org/10.1080/15228835.2017.1367350)]
 
 Richardson, R. and Lindgren, S. (2017). ”Online Tribes and Digital Authority. What can Social Theory bring to Digital Archaeology?”. *Open Archaeology*. [[https://doi.org/10.1515/opar‑2017‑0008](https://doi.org/10.1515/opar‑2017‑0008)]
